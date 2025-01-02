@@ -8,6 +8,6 @@ This repository contains various firmware projects developed using the STM32 Nuc
 
 ## Additional Resources
 You can download the complete files and presentation materials through the following Google Drive link:  
-[Google Drive Link](<Insert your link here>)
+[Google Drive Link](<https://drive.google.com/drive/folders/1RYdl8u9dCVTiMCe67fvxP48aTJKz7KaY?usp=drive_link>)
 
 Feel free to explore!!
